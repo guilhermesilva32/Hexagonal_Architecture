@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUmM37Vn1kw29YZU0YT1oNBttTK9cO2M22XiCVWrLpp1MVSy3TH9YQo7gAVPYV67hxkexTJHlSQa/dIuSJAeUw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\projeto-estudos-net\\Hexagonal_Architecture\\hexagonal_architecture.API\\hexagonal_architecture.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guisd\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
